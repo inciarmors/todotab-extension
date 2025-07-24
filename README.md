@@ -1,5 +1,3 @@
-# todotab-extension
-
 # TodoTab Extension
 
 ![TodoTab Logo](icons/icon128.png)
